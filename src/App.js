@@ -25,6 +25,7 @@ function App() {
         </Routes>
       </Suspense>
       <div>ciao</div>
+      <div>ciao</div>
     </Layout>
   );
 }
