@@ -24,8 +24,6 @@ function App() {
           <Route path="*" element={<NotFound/>} />
         </Routes>
       </Suspense>
-      <div>ciao</div>
-      <div>ciao</div>
     </Layout>
   );
 }
